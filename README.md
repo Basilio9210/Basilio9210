@@ -55,7 +55,7 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;"># Github stats: </h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Basilio9210)
+[![](https://github-readme-stats.vercel.app/api?username=basilio9210&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Basilio9210)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Basilio9210&theme=material-palenight)](https://github.com/Basilio9210)
 </div>
 
