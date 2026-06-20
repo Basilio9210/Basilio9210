@@ -29,10 +29,6 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 
 --
 
-|     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
-
-
-
 ---
 
 ## 📂 Featured Projects
