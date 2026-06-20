@@ -31,8 +31,8 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 
 ## 📂 Featured Projects
 - 🔹 [Playwright 30 Days](https://github.com/basilio9210/playwright-30dias) → Automation challenge with Playwright.  
-- 🔹 [SQL Practice](https://github.com/basilio9210/sql-practice) → SQL exercises optimized for QA.  
-- 🔹 [QA Automation Samples](https://github.com/basilio9210/qa-automation-samples) → Automated testing scripts.  
+- 🔹 [SQL Practice](https://github.com/XD-DENG/SQL-exercise) → SQL exercises optimized for QA.  
+- 🔹 [QA Automation Samples](https://github.com/topics/playwright-automation) → Automated testing scripts.  
 
 ---
 
