@@ -24,6 +24,15 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+---
+
+## 📂 Featured Projects
+- 🔹 [Playwright 30 Days](https://github.com/basilio9210/playwright-30dias) → Automation challenge with Playwright.  
+- 🔹 [SQL Practice](https://github.com/basilio9210/sql-practice) → SQL exercises optimized for QA.  
+- 🔹 [QA Automation Samples](https://github.com/basilio9210/qa-automation-samples) → Automated testing scripts.  
+
 ---
 
 ## 📊 GitHub Stats
@@ -44,10 +53,10 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 ----
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;"># Github stats: </h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Basilio9210)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Basilio9210&theme=material-palenight)](https://github.com/Basilio9210)
 </div>
 
 ----
@@ -58,25 +67,7 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
-
----
-
-## 📂 Featured Projects
-- 🔹 [Playwright 30 Days](https://github.com/basilio9210/playwright-30dias) → Automation challenge with Playwright.  
-- 🔹 [SQL Practice](https://github.com/basilio9210/sql-practice) → SQL exercises optimized for QA.  
-- 🔹 [QA Automation Samples](https://github.com/basilio9210/qa-automation-samples) → Automated testing scripts.  
-
-----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
-
-----
+Credit: [Basilio9210](https://github.com/basilio9210)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basilio9210)  
