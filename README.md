@@ -20,19 +20,19 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 
 ---
 
-## 📊 Estadísticas
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilio9210&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basilio9210&layout=compact&theme=tokyonight)
 
 ---
 
-## 📂 Proyectos Destacados
-- 🔹 [Playwright 30 días](https://github.com/basilio9210/playwright-30dias) → Reto de automatización con Playwright.  
-- 🔹 [SQL Practice](https://github.com/basilio9210/sql-practice) → Ejercicios de SQL optimizados para QA.  
-- 🔹 [QA Automation Samples](https://github.com/basilio9210/qa-automation-samples) → Scripts de pruebas automatizadas.  
+## 📂 Featured Projects
+- 🔹 [Playwright 30 Days](https://github.com/basilio9210/playwright-30dias) → Automation challenge with Playwright.  
+- 🔹 [SQL Practice](https://github.com/basilio9210/sql-practice) → SQL exercises optimized for QA.  
+- 🔹 [QA Automation Samples](https://github.com/basilio9210/qa-automation-samples) → Automated testing scripts.  
 
 ---
 
-## 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basilio9210)
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basilio9210)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basilio9210)
