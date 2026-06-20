@@ -21,7 +21,7 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 
 ## 🛠️ Tech Stack
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](<img src="./icons/Postman.svg" width="48">)
+![Postman](https://img.shields.io/badge/Postman-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
