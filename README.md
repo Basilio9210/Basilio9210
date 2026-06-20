@@ -27,6 +27,10 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+--
+
+|     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
+
 
 
 ---
