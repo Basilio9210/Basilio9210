@@ -3,23 +3,24 @@
  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
    <!-- <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="90%" /> -->
 </p>
+
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Basilio9210">Hi, I am Basilio Saldarriaga Giraldo<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 <Br>
   
 
-🔍 **Quality Assurance Engineer | QA Automation | SQL | Playwright**  
+🔍 Quality Assurance Engineer | QA Automation | SQL | Playwright**  
 📍 Medellín, Colombia  
-📧 basilio9210@gmail.com  
+📧 basilio9210@hotmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/basilio9210)
 
 ---
 
-## 🚀 About me
+🚀 About me
 I am a Systems Engineer with 8+ years of experience in functional, mobile, web apps, APIs and performance testing for multiple companies and projects. Skilled in manual testing workflows using Azure DevOps, Postman, JMeter, SOAP UI, SQL, Jira and Git; I analyze requirements, design and execute test cases, report defects, and improve release reliability. Collaborative and detail-oriented, I support production releases with smoke testing and release notes while continuously expanding expertise in test automation and DevOps practices.
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -31,10 +32,10 @@ I am a Systems Engineer with 8+ years of experience in functional, mobile, web a
 
 ---
 
-## 📂 Featured Projects
-- 🔹 [Playwright 30 Days](https://github.com/Basilio9210/Basilio-Playwright-reto-30-dias) → Automation challenge with Playwright.  
-- 🔹 [SQL Practice](https://github.com/XD-DENG/SQL-exercise) → SQL exercises optimized for QA.  
-- 🔹 [QA Automation Samples](https://github.com/topics/playwright-automation) → Automated testing scripts.  
+📂 Featured Projects
+ 🔹 [Playwright 30 Days](https://github.com/Basilio9210/Basilio-Playwright-reto-30-dias) → Automation challenge with Playwright.  
+ 🔹 [SQL Practice](https://github.com/XD-DENG/SQL-exercise) → SQL exercises optimized for QA.  
+ 🔹 [QA Automation Samples](https://github.com/topics/playwright-automation) → Automated testing scripts.  
 
 ---
 
