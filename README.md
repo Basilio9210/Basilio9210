@@ -31,7 +31,7 @@
 ---
 
 ## 🚀 About me
-I am a Systems Engineer with 8+ years of experience in functional, mobile, web apps, APIs and performance testing for multiple companies and projects. Skilled in manual testing workflows using Azure DevOps, Postman, JMeter, SOAP UI, SQL, Jira and Git; I analyze requirements, design and execute test cases, report defects, and improve release reliability. Collaborative and detail-oriented, I support production releases with smoke testing and release notes while continuously expanding expertise in test automation and DevOps practices.
+I am a Systems Engineer with 8+ years of experience in functional, mobile, web apps, APIs and performance testing for multiple companies and projects. Skilled in manual testing workflows using Azure DevOps, Postman, Playwright, JMeter, SOAP UI, SQL, Jira and Git; I analyze requirements, design and execute test cases, report defects, and improve release reliability. Collaborative and detail-oriented, I support production releases with smoke testing and release notes while continuously expanding expertise in test automation and DevOps practices.
 ---
 
 ## 🛠️ Tech Stack
