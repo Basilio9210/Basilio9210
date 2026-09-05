@@ -31,7 +31,7 @@
 ---
 
 ## 🚀 About me
-ystems Engineer with 8+ years in functional, mobile, web, API
+I'm a Systems Engineer with 8+ years in functional, mobile, web, API
 and performance testing. Skilled in Azure DevOps, Postman,
 JMeter, SOAP UI, SQL, Jira and Git. Experienced in designing test
 cases, reporting defects and supporting releases with smoke
