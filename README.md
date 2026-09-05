@@ -77,9 +77,6 @@ testing while expanding expertise in automation and DevOps.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilio9210&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basilio9210&layout=compact&theme=tokyonight)
 
 <h3 align="center">Reach me</h3>
 
