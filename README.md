@@ -23,7 +23,7 @@
 <Br>
   
 
-🔍 Quality Assurance Engineer | QA Automation | Playwright | API Testing | **  
+🔍 Quality Assurance Engineer | QA Automation | Playwright | API Testing | 
 📍 Medellín, Colombia  
 📧 basilio9210@hotmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/basilio9210)
