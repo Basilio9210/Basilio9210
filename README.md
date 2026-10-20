@@ -9,9 +9,6 @@
 
 ###
 
-
-
-
 <p align="center">
 
  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
@@ -32,7 +29,7 @@
 
 ## 🚀 About me
 I'm a Systems Engineer with 8+ years in functional, mobile, web, API
-and performance testing. Skilled in Azure DevOps, Postman,
+Automation, and performance testing. Skilled in Playwright, Azure DevOps, Postman,
 JMeter, SOAP UI, SQL, Jira and Git. Experienced in designing test
 cases, reporting defects and supporting releases with smoke
 testing while expanding expertise in automation and DevOps.
