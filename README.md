@@ -70,7 +70,7 @@ testing while expanding expertise in automation and DevOps.
 
 - 🔹 [Playwright 30 Days](https://github.com/Basilio9210/Basilio-Playwright-reto-30-dias) → Automation challenge with Playwright.  
 - 🔹 [SQL Practice](https://github.com/Basilio9210/BasesDatosAvanzada) → SQL exercises optimized for QA.  
-- 🔹 [QA Automation Samples](git@github.com:Basilio9210/Automation_Playwright.git) → Automated testing scripts.  
+- 🔹 [QA Automation Samples]([git@github.com:](https://github.com/Basilio9210/Automation_Playwright.git) → Automated testing scripts.  
 
 ---
 
