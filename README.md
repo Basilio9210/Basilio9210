@@ -20,7 +20,7 @@
 <Br>
   
 
-🔍 Quality Assurance Engineer | QA Automation | Playwright | API Testing | 
+🔍 QA Automation Senior QA Engineer | SDET | Test Automation | API & Integration Testing | Playwright | Typescript | SQL
 📍 Medellín, Colombia  
 📧 basilio9210@hotmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/basilio9210)
@@ -28,11 +28,15 @@
 ---
 
 ## 🚀 About me
-I'm a Systems Engineer with 8+ years in functional, mobile, web, API
-Automation, and performance testing. Skilled in Playwright, Azure DevOps, Postman,
-JMeter, SOAP UI, SQL, Jira and Git. Experienced in designing test
-cases, reporting defects and supporting releases with smoke
-testing while expanding expertise in automation and DevOps.
+Senior QA Engineer with 8+ years of experience in software quality assurance across banking, telecommunications, enterprise applications, retail, and warehouse management systems.
+
+Experienced in functional, integration, API, and end-to-end testing, with strong knowledge of Oracle and SQL-based data validation. Skilled in testing complex business processes involving ERP and WMS integrations, including PeopleSoft and Manhattan WMS environments.
+Throughout my career, I have worked with technologies such as Playwright, Postman, Bruno, SOAP-UI, JMeter, Oracle SQL, SQL Server, Azure DevOps, Jira, Salesforce, and TestRail.
+
+I have participated in large-scale projects involving banking platforms, enterprise applications, API integrations, inventory management and warehouse operations, collaborating closely with business analysts, developers and product teams to ensure software quality and successful releases.
+
+Currently focused on expanding my expertise in Test Automation and SDET practices, combining strong business knowledge with technical testing skills to deliver reliable and scalable software solutions.
+
 ---
 
 ## 🛠️ Tech Stack
